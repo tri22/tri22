@@ -49,7 +49,6 @@ My recent work focuses on **AI-driven database interaction**, **RESTful API desi
 
 <div align="center">
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=tri22&theme=prussian&border_radius=5&short_numbers=true)](https://git.io/streak-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tri22&layout=compact&theme=dark&hide_title=true&hide=go,assembly,c)](https://github.com/anuraghazra/github-readme-stats)
 
 
